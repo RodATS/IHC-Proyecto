@@ -15,6 +15,31 @@ Entonces, si bien en el mundo real ya existe un proceso de terapia física como 
 
 En este trabajo, explicaremos en detalle esta innovadora solución terapéutica, describiendo su funcionalidad, ventajas y el impacto potencial en la atención médica y la calidad de vida de los pacientes. Además, se analizarán los aspectos técnicos, los desafíos y las perspectivas a futuro de la Asistente de Terapia Física con Realidad Aumentada, subrayando su capacidad para revolucionar la rehabilitación física y mejorar el proceso de recuperación de pacientes en todo el mundo.
 
+<h2>Installing the Unity Editor<h2/>
+1. Go to the Unity Download page, select Download Unity Hub, and install it.
+2. Open the Hub and navigate to the Installs tab and click Add.
+3. Now you can create a new Unity Project with Lumin support.
+4. Open Unity Hub and click the Installs tab.
+5. Click the three dots next to your target Unity version and click Add Modules.
+
+<h2>Install Magic Leap Tools & SDK<h2/>
+1. Go to https://ml1-developer.magicleap.com/downloads in your web browser and sign in with your Magic Leap ID.
+2. In the right-hand section of the Magic Leap Lab page, select Download for Windows or Download for Mac. This will download The Lab application onto the computer.
+  
+<h2>Installing Lumin SDK Packages<h2/>
+1. Open The Lab. Initially, you will be required to login using your Magic Leap ID. Enter the 6-digit secret code that is sent to you by email.
+2. Navigate to the Package Manager
+3. Select Unity.
+4. In the right-hand pane, select Zero Iteration. This package allows you to simulate the device on your computer.
+5. Click Apply Changes and wait for the install to complete.
+
+<h2>Set the Lumin SDK inside Unity<h2/>
+1. Open or create a new Unity Project.
+2. From the menu, go to Edit > Preferences > External Tools.
+3. Assign the Lumin SDK path to the target Lumin SDK version.
+Mac: $HOME/MagicLeap/mlsdk/v0.26.0/ Windows: %USERPROFILE%/MagicLeap/mlsdk/v0.26.0/
+
+<h2>Version Compatibility</h2>
 
 | Lumin OS | Lumin SDK | Unity    | Unreal   | API Level |
 |----------|-----------|----------|----------|-----------|
