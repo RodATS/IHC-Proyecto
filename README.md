@@ -1,4 +1,4 @@
-# IHC-Proyecto
+# IHC-Proyect
 
 <h1>Members</h1>
 <li>Joaquin Casusol</li>
