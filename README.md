@@ -14,3 +14,18 @@ Esta aplicación está diseñada para permitir a los pacientes llevar a cabo eje
 Entonces, si bien en el mundo real ya existe un proceso de terapia física como tal, nosotros buscamos llevarlo al siguiente nivel, utilizando las últimas tecnologías para hacer que un proceso de terapia sea mucho más cómodo y más efectivo. 
 
 En este trabajo, explicaremos en detalle esta innovadora solución terapéutica, describiendo su funcionalidad, ventajas y el impacto potencial en la atención médica y la calidad de vida de los pacientes. Además, se analizarán los aspectos técnicos, los desafíos y las perspectivas a futuro de la Asistente de Terapia Física con Realidad Aumentada, subrayando su capacidad para revolucionar la rehabilitación física y mejorar el proceso de recuperación de pacientes en todo el mundo.
+
+
+| Lumin OS | Lumin SDK | Unity    | Unreal   | API Level |
+|----------|-----------|----------|----------|-----------|
+| 0.98.30  | 0.26.0    | 2020.3   | 4.24.2   | 10        |
+| 0.98.20  | 0.25.0    | 2020.2   | 4.24.2   | 9         |
+| 0.98.10  | 0.24.0    | 2019.3   | 4.24.2   | 8         |
+| 0.98     | 0.23.0    | 2019.2   | 4.23     | 7         |
+| 0.97     | 0.22.0    | 2019.2   | 4.22.2   | 6         |
+| 0.96     | 0.21.0    | 2019.1   | 4.22     | 5         |
+| 0.95     | 0.20.0    | 2019.1   | 4.21+    | 4         |
+| 0.94.0   | 0.19.0    | 2018.1 MLTP 10 | 4.21+ | 3         |
+| 0.93.0   | 0.18.0    | 2018.1 MLTP 9  | 4.20  | 2         |
+| 0.92.0   | 0.17.0    | 2018.1 MLTP 8  | 4.20  | 1         |
+| 0.91.0   | 0.16.0    | 2018.1 MLTP 7  | 4.20  | 1         |
