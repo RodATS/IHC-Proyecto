@@ -16,7 +16,7 @@ Entonces, si bien en el mundo real ya existe un proceso de terapia física como 
 En este trabajo, explicaremos en detalle esta innovadora solución terapéutica, describiendo su funcionalidad, ventajas y el impacto potencial en la atención médica y la calidad de vida de los pacientes. Además, se analizarán los aspectos técnicos, los desafíos y las perspectivas a futuro de la Asistente de Terapia Física con Realidad Aumentada, subrayando su capacidad para revolucionar la rehabilitación física y mejorar el proceso de recuperación de pacientes en todo el mundo.
 
 <h2>Installing the Unity Editor</h2>
-1. Go to the Unity Download page, select Download Unity Hub, and install it.  
+<p>1. Go to the Unity Download page, select Download Unity Hub, and install it. </p> 
 2. Open the Hub and navigate to the Installs tab and click Add.  
 3. Now you can create a new Unity Project with Lumin support.  
 4. Open Unity Hub and click the Installs tab.  
