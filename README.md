@@ -17,27 +17,27 @@ En este trabajo, explicaremos en detalle esta innovadora solución terapéutica,
 
 <h2>Installing the Unity Editor</h2>
 <p>1. Go to the Unity Download page, select Download Unity Hub, and install it. </p> 
-2. Open the Hub and navigate to the Installs tab and click Add.  
-3. Now you can create a new Unity Project with Lumin support.  
-4. Open Unity Hub and click the Installs tab.  
-5. Click the three dots next to your target Unity version and click Add Modules.  
+<p>2. Open the Hub and navigate to the Installs tab and click Add.   </p>
+<p>3. Now you can create a new Unity Project with Lumin support. </p> 
+<p>4. Open Unity Hub and click the Installs tab.  </p> 
+<p>5. Click the three dots next to your target Unity version and click Add Modules.   </p>
 
 <h2>Install Magic Leap Tools & SDK</h2>
-1. Go to https://ml1-developer.magicleap.com/downloads in your web browser and sign in with your Magic Leap ID.  
-2. In the right-hand section of the Magic Leap Lab page, select Download for Windows or Download for Mac. This will download The Lab application onto the computer.  
+<p>Go to https://ml1-developer.magicleap.com/downloads in your web browser and sign in with your Magic Leap ID.   </p>1. 
+<p>In the right-hand section of the Magic Leap Lab page, select Download for Windows or Download for Mac. This will download The Lab application onto the computer.   </p>2. 
   
 <h2>Installing Lumin SDK Packages</h2>
-1. Open The Lab. Initially, you will be required to login using your Magic Leap ID. Enter the 6-digit secret code that is sent to you by email.  
-2. Navigate to the Package Manager  
-3. Select Unity.  
-4. In the right-hand pane, select Zero Iteration. This package allows you to simulate the device on your computer.  
-5. Click Apply Changes and wait for the install to complete.  
+<p>1. Open The Lab. Initially, you will be required to login using your Magic Leap ID. Enter the 6-digit secret code that is sent to you by email.   </p>
+<p>2. Navigate to the Package Manager   </p>
+<p>3. Select Unity.   </p>
+<p>4. In the right-hand pane, select Zero Iteration. This package allows you to simulate the device on your computer.  </p> 
+<p>5. Click Apply Changes and wait for the install to complete.   </p>
 
 <h2>Set the Lumin SDK inside Unity</h2>
-1. Open or create a new Unity Project.  
-2. From the menu, go to Edit > Preferences > External Tools.  
-3. Assign the Lumin SDK path to the target Lumin SDK version.  
-Mac: $HOME/MagicLeap/mlsdk/v0.26.0/ Windows: %USERPROFILE%/MagicLeap/mlsdk/v0.26.0/  
+<p>1. Open or create a new Unity Project.   </p>
+<p>2. From the menu, go to Edit > Preferences > External Tools.   </p>
+<p>3. Assign the Lumin SDK path to the target Lumin SDK version.   </p>
+<p>Mac: $HOME/MagicLeap/mlsdk/v0.26.0/ Windows: %USERPROFILE%/MagicLeap/mlsdk/v0.26.0/   </p>
 
 <h2>Version Compatibility</h2>
 
@@ -54,3 +54,5 @@ Mac: $HOME/MagicLeap/mlsdk/v0.26.0/ Windows: %USERPROFILE%/MagicLeap/mlsdk/v0.26
 | 0.93.0   | 0.18.0    | 2018.1 MLTP 9  | 4.20  | 2         |
 | 0.92.0   | 0.17.0    | 2018.1 MLTP 8  | 4.20  | 1         |
 | 0.91.0   | 0.16.0    | 2018.1 MLTP 7  | 4.20  | 1         |
+
+<p>For more information, go to the official site https://ml1-developer.magicleap.com/en-us/learn/guides/unity-setup-intro</p>
