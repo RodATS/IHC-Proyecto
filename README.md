@@ -8,7 +8,7 @@
 
 <h2 > Code Link</h2>
 To download the project: https://drive.google.com/file/d/110hv8AEu3zIyJJth0LFkVXn7Ck6GY4nl/view?usp=sharing
-If you wanrt to used please use cite us :).
+<br> If you want to used please use cite us :).
 
 <h2>Shoulder Physical Therapy Project using AR</h2>
 
